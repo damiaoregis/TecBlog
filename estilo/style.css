@@ -22,6 +22,7 @@ body{
 #area-principal{
     width: 920px;
     margin: 0 auto;
+    padding: ;
 }
 #area-postagens{
     width: 660px;
@@ -59,6 +60,8 @@ a:hover{
 h1{
     color: #4e4e4e;
     font-size: 2.5em;
+}
+h2{
 }
 .branco{
     color: white;
